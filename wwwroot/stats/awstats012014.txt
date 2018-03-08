@@ -1,0 +1,520 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201401 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2549                
+POS_VISITOR 8944                
+POS_DAY 13172               
+POS_DOMAIN 3317                
+POS_LOGIN 3547                
+POS_ROBOT 3702                
+POS_WORMS 4505                
+POS_EMAILSENDER 4636                
+POS_EMAILRECEIVER 4779                
+POS_SESSION 13902               
+POS_SIDER 14093               
+POS_FILETYPES 4914                
+POS_OS 5089                
+POS_BROWSER 5262                
+POS_SCREENSIZE 5754                
+POS_UNKNOWNREFERER 5828                
+POS_UNKNOWNREFERERBROWSER 6209                
+POS_ORIGIN 6423                
+POS_SEREFERRALS 6560                
+POS_PAGEREFS 6715                
+POS_SEARCHWORDS 7956                
+POS_KEYWORDS 8125                
+POS_MISC 2213                
+POS_ERRORS 8201                
+POS_CLUSTER 3403                
+POS_SIDER_404 8347                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140201010242 3221 570950 32535460256
+FirstTime 20140101134958
+LastTime 20140131223012
+LastUpdate 20140203215223 3221 2979 241 0 0
+TotalVisits 156                 
+TotalUnique 106                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 108                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 2 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 11 11 48696 35 38 122373
+1 10 15 354581 50 53 214339
+2 15 39 710940 40 46 226467
+3 11 31 552675 33 37 160355
+4 2 2 2288 34 36 128689
+5 20 21 84372 47 50 243001
+6 7 8 68672 13 13 44872
+7 12 12 29301 25 29 134026
+8 9 9 62439 28 33 142349
+9 2 2 11429 37 43 144943
+10 5 16 356683 17 19 57957
+11 9 10 54671 26 34 331331
+12 14 22 202543 26 28 71858
+13 4 4 21101 22 24 110262
+14 4 4 13678 25 30 126891
+15 6 6 15924 26 26 70030
+16 9 9 41671 13 16 43902
+17 9 31 474769 14 21 191883
+18 18 63 1239035 26 28 126807
+19 13 38 932902 16 20 57753
+20 12 12 64788 71 73 265384
+21 3 15 365286 31 33 131985
+22 12 39 756674 11 12 24533
+23 11 11 53119 6 6 7516
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 228 430 6518237
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 19
+yandex 235 740166 20140128202346 46
+googlebot 154 861224 20140131224305 53
+bot[+:,\.\;\/\\-] 132 807510 20140131220926 36
+baiduspider 30 146623 20140130101330 0
+mj12bot 25 117361 20140131201924 7
+surveybot 18 70398 20140131084954 6
+spider 16 154796 20140128035955 0
+crawl 15 11195 20140131001229 0
+no_user_agent 14 88034 20140125160925 1
+unknown 12 3946 20140128153833 12
+msnbot 6 3123 20140126180258 3
+[+:,\.\;\/\\-]bot 1 9416 20140127000254 0
+robot 5 31537 20140127205315 2
+python 1 1990 20140114121754 0
+archive\.org_bot 2 9767 20140102111153 1
+java 4 19444 20140104053736 0
+vse 2 9733 20140113030956 1
+netcraft 5 30610 20140111055814 0
+nutch 2 3980 20140110132408 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+php 6 4690 0 0
+css 28 206839 0 0
+png 133 486139 0 0
+html 212 1226665 0 0
+jpg 41 4574118 0 0
+Unknown 4 7884 0 0
+txt 6 11902 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 13
+linuxredhat 1
+winlong 21
+winxp 61
+winnt 7
+win2000 1
+linux 19
+winvista 6
+macosx 134
+winme 5
+win95 1
+win2003 10
+Unknown 16
+win2008 148
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 35
+msie6.0 31
+firefox20.0 1
+firefox15.0 1
+firefox3.6 1
+chrome 94
+firefox26.0 131
+firefox4.0 1
+curl 1
+lynx 3
+msie8.0 41
+firefox6.0.2 4
+firefox0.10.1 3
+msie7.0 13
+firefox16.0 1
+firefox23.0 1
+firefox3.6.9 1
+wget 3
+msie9.0 6
+Unknown 7
+firefox3.0.8 2
+firefox17.0 1
+opera 5
+firefox21.0 4
+firefox7.0.1 6
+msie5.5 7
+mozilla 23
+firefox25.0 4
+netscape5.0 1
+firefox22.0 12
+firefox14.0.1 10
+firefox5.0.1 2
+msie10.0 2
+firefox3.6.3 3
+safari 1
+firefox16.0.1 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0 20140111021527
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20140115124430
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20140118085600
+panscient.com 20140128204138
+Mozilla/3.0_(compatible;_Indy_Library) 20140112072511
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20140118085600
+panscient.com 20140128204138
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 134 137
+From1 4 4
+From2 4 4
+From3 81 280
+From4 5 5
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 35
+http://domainsigma.com/whois/pimwhs.com 9 9
+http://domainsigma.com/whois/pimws.com 9 9
+http://pimws.com/products.html 8 15
+http://eurofiles.in 7 7
+http://onload.pw 4 4
+http://thefds.net 4 4
+http://w12files.com 4 4
+http://pimws.com 4 14
+http://pimwhs.com 3 3
+http://www.pimws.com 3 20
+http://www.binary-deluxe.com 2 2
+http://pimws.com/blog/ 1 1
+http://pimws.com/contact.html 1 19
+http://pimwhs.com/blog/ 1 1
+http://pimwhs.com/wordpress/ 1 1
+http://pimws.com/files/main_style.css 0 51
+http://evuln.com/tools/malware-scanner/dotwebapps.com/ 1 1
+http://pimwhs.com 1 1
+http://pimws.com 1 12
+http://www.pimws.com/files/main_style.css 0 15
+http://pimws.com/wordpress/ 1 1
+http://www.ausergrubhof.info 1 1
+http://pimwhs.com/joomla/ 1 1
+http://www.pimws.com/contact.html 0 14
+http://www.forexunion.net 1 1
+http://pimws.com/wp/ 1 1
+http://mawords.com/pimws.com 1 1
+http://pimwhs.com/wp/ 1 1
+http://pimws.com/index.html 0 15
+http://www.pimws.com/products.html 2 10
+http://www.pimws.com 2 35
+http://pimwhs.com/drupal/ 1 1
+http://pimws.com/joomla/ 1 1
+http://w12files.com 3 3
+http://pimws.com/drupal/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+dotwebapps.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+dotwebapps.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 13 18957
+302 18 6743
+206 1 9486
+405 2 3534
+500 3 9846
+404 32 10087
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 10
+/vtigercrm/graph.php 3 -
+/test/php/test.php 2 -
+/admin.php 4 -
+/dotwebapps/components/com_content/router.php 2 -
+/administrator/index.php 3 -
+/test/python/test.py 2 -
+/dotwebapps/wp-login.php 2 -
+/components/com_content/router.php 4 -
+/wp-login.php 9 -
+/dotwebapps/blog/wp-login.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 108
+192.96.204.42 18 20 47927 20140131135219
+67.169.56.89 14 119 2638776 20140130183519
+109.200.159.118 12 12 28305 20140122072821
+69.58.178.57 9 9 62384 20140115125901
+122.176.68.199 6 6 17996 20140117054139
+195.58.235.182 6 6 17995 20140117054137
+69.58.178.59 5 5 54498 20140118085603
+212.83.57.218 4 4 7960 20140108120512
+64.235.154.71 4 4 37756 20140127201427
+193.43.252.252 4 4 5970 20140124183305
+64.235.154.195 3 3 28317 20140123183704
+109.92.184.253 3 3 4767 20140116021853
+107.22.48.96 1 1 1971 20140118182735
+96.227.124.38 1 1 9420 20140125050247
+195.3.146.93 2 2 1650 20140106004157
+37.9.53.91 3 3 5970 20140130081318
+202.46.55.29 1 1 0 20140123031517
+180.76.5.199 1 1 1990 20140113034711
+116.203.179.92 1 12 350770 20140122103020
+66.220.7.244 1 1 9416 20140101190734
+54.202.106.11 2 2 18841 20140120011934
+54.245.33.250 2 2 11392 20140113182025
+151.151.16.11 3 17 531408 20140131223012
+96.227.124.37 2 2 1971 20140121102654
+162.243.146.143 1 1 1990 20140107060225
+112.20.191.112 1 1 1971 20140124165124
+219.143.225.20 3 3 28248 20140119200416
+205.237.88.155 1 1 9440 20140119023408
+46.229.170.197 1 1 9416 20140122155533
+162.243.236.80 1 1 1990 20140109232259
+64.235.150.221 1 1 9439 20140122233421
+62.60.138.158 2 2 18833 20140129131801
+64.235.154.193 1 1 9439 20140110010607
+212.46.235.178 2 2 11388 20140113022410
+180.76.5.81 1 1 1990 20140131083508
+189.41.84.151 1 1 1971 20140129101106
+180.76.6.50 1 1 1990 20140125192400
+54.226.112.46 2 2 18833 20140112200651
+64.235.154.192 2 2 18878 20140117014528
+91.106.201.99 1 1 1971 20140128071126
+64.235.151.195 1 1 9439 20140130005008
+64.202.161.41 2 2 3942 20140124154819
+54.201.55.254 3 3 5913 20140123185447
+190.101.92.101 1 1 9416 20140113110616
+91.207.5.38 2 2 11426 20140129125812
+64.235.152.54 1 1 9439 20140107184423
+189.121.173.7 1 1 1971 20140128005318
+119.98.67.95 1 1 1971 20140108114156
+198.199.82.240 1 1 1971 20140102145121
+199.30.25.105 0 10 135793 
+81.215.199.109 1 1 1971 20140109071242
+78.158.11.226 3 3 5913 20140115124430
+64.202.161.44 1 1 1971 20140124154820
+85.52.69.247 1 1 9416 20140109122011
+95.62.99.134 1 1 9416 20140110183042
+54.197.1.42 1 1 1971 20140112111958
+64.235.154.68 1 1 9439 20140119225214
+202.46.54.65 1 1 1990 20140121190009
+50.143.186.108 2 15 439028 20140118022315
+66.135.45.182 1 12 350766 20140114192932
+146.120.158.155 1 1 1971 20140113191056
+162.251.164.11 1 1 1971 20140121083824
+199.91.71.247 1 1 1971 20140111221213
+38.100.21.62 4 5 57246 20140124060154
+64.235.151.199 2 2 18878 20140115182039
+162.243.100.200 1 1 1990 20140108140614
+199.101.103.130 1 1 1971 20140121182908
+192.241.132.143 1 1 1990 20140115093615
+162.243.146.196 1 1 1971 20140101134958
+199.91.71.254 1 1 9416 20140112160403
+64.235.154.194 1 1 9439 20140115180916
+69.163.181.133 1 1 1971 20140108230114
+149.210.156.137 1 1 1971 20140107015017
+191.235.137.27 2 2 0 20140128061324
+162.243.147.235 1 1 1990 20140112052914
+83.174.220.216 1 1 9417 20140110055031
+64.235.151.194 4 4 37756 20140130232659
+96.225.77.163 3 3 5913 20140128204138
+199.30.25.82 0 8 115318 
+111.254.204.117 3 3 5913 20140116005558
+222.192.184.34 1 1 1971 20140117035510
+146.120.158.108 1 1 14218 20140113191056
+107.22.67.105 1 1 1971 20140110165548
+31.6.71.147 1 1 9416 20140122115645
+180.76.6.48 1 1 1990 20140119045049
+162.243.236.92 1 1 1990 20140110234202
+50.16.27.251 1 1 1971 20140108020459
+46.98.4.202 1 1 9436 20140115065349
+64.235.151.197 2 2 18878 20140121161641
+172.249.137.77 3 17 531408 20140107192828
+162.251.164.30 1 1 9420 20140121143233
+218.102.34.80 1 1 1971 20140121072132
+162.243.48.48 1 1 1971 20140116103636
+8.28.16.254 3 3 35709 20140131223012
+69.197.138.42 2 2 18832 20140119230215
+64.120.214.178 2 2 18841 20140108002025
+91.238.134.236 1 1 1971 20140130013136
+162.243.146.199 1 1 1990 20140105224953
+109.68.191.150 4 4 7960 20140130054948
+176.124.133.221 1 1 9416 20140112072511
+50.23.254.99 1 1 9439 20140112095415
+178.82.194.234 2 15 439024 20140131183638
+212.93.205.176 3 3 4767 20140116021855
+198.199.76.203 1 1 1971 20140121070809
+162.243.117.19 1 1 1971 20140111021527
+223.68.162.141 1 1 0 20140105052202
+84.232.71.55 1 1 1971 20140110100221
+67.198.173.146 1 1 302 20140105110702
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20140101 2 2 11387 2
+20140102 1 1 1971 1
+20140104 3 13 137213 3
+20140105 3 3 2292 3
+20140106 1 1 825 1
+20140107 9 23 547374 7
+20140108 14 14 50113 8
+20140109 6 15 161688 6
+20140110 7 7 43643 7
+20140111 4 4 13679 4
+20140112 8 8 51362 7
+20140113 11 11 65284 8
+20140114 10 41 901413 4
+20140115 15 15 100751 9
+20140116 10 10 17418 4
+20140117 15 16 68985 5
+20140118 17 30 537164 9
+20140119 6 6 39999 6
+20140120 3 3 19138 2
+20140121 10 21 266345 10
+20140122 8 19 388476 5
+20140123 11 22 272437 9
+20140124 10 11 74569 6
+20140125 2 2 11410 2
+20140126 2 13 228173 2
+20140127 4 15 238207 4
+20140128 11 41 844447 6
+20140129 6 6 34220 4
+20140130 8 19 379528 6
+20140131 11 38 1008726 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+30s-2mn 9
+15mn-30mn 1
+0s-30s 144
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 30
+/ 111 758817 91 83
+/dotwebapps/ 49 96959 36 35
+/contact.html 13 184834 5 9
+/products.html 11 132781 1 3
+/dotwebapps/robots.txt 6 11902 6 4
+/dotwebapps/function.file-get-contents 4 7884 1 4
+/wordpress/ 2 3942 0 0
+/joomla/ 2 3942 0 0
+/drupal/ 2 3942 0 0
+/dotwebapps/administrator/ 2 3942 1 2
+/dotwebapps/user/ 1 1971 1 1
+/dotwebapps/sites/all/modules/fckeditor/fckeditor/editor/filemanager/connectors/uploadtest.html 1 1990 0 1
+/dotwebapps/wp-admin/ 1 1971 1 0
+/dotwebapps/wordpress/wp-admin/ 1 1971 0 0
+/47951943012.html 1 1971 1 1
+/wordpress/wp-admin/ 2 3942 0 0
+/blog/wp-admin/index.php 2 1650 0 2
+/wp-admin/ 2 3942 2 0
+/administrator/ 1 1971 1 1
+/blog/index.php 2 1390 0 2
+/about.html 1 1971 1 1
+/73707380.html 1 0 1 1
+/blog/wp-login.php 2 1650 2 2
+/wp/ 2 3942 0 0
+/dotwebapps/js/fckeditor/editor/filemanager/connectors/uploadtest.html 1 1990 1 1
+/dotwebapps/blog/wp-admin/ 1 1971 0 1
+/198528411.html 1 1971 1 1
+/1136912554.html 1 1971 1 1
+/dotwebapps/admin/ 1 1971 1 0
+/dotwebapps/modules/fckeditor/fckeditor/editor/filemanager/connectors/uploadtest.html 1 1990 1 0
+END_SIDER

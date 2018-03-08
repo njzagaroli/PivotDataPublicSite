@@ -1,0 +1,339 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201109 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2521                
+POS_VISITOR 3251                
+POS_DAY 3323                
+POS_DOMAIN 3447                
+POS_LOGIN 3658                
+POS_ROBOT 3813                
+POS_WORMS 3945                
+POS_EMAILSENDER 4076                
+POS_EMAILRECEIVER 4219                
+POS_SESSION 4295                
+POS_SIDER 4432                
+POS_FILETYPES 4551                
+POS_OS 4599                
+POS_BROWSER 4638                
+POS_SCREENSIZE 4688                
+POS_UNKNOWNREFERER 4762                
+POS_UNKNOWNREFERERBROWSER 4849                
+POS_ORIGIN 4931                
+POS_SEREFERRALS 5061                
+POS_PAGEREFS 5205                
+POS_SEARCHWORDS 5353                
+POS_KEYWORDS 5505                
+POS_MISC 2185                
+POS_ERRORS 5564                
+POS_CLUSTER 3514                
+POS_SIDER_404 5700                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20111002063742 1321 225044 40212267245
+FirstTime 
+LastTime 
+LastUpdate 20120717141416 1321 204 1116 0 0
+TotalVisits 0                   
+TotalUnique 0                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 0                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 6 6 5098
+1 0 0 0 8 8 5959
+2 0 0 0 10 10 6564
+3 0 0 0 6 6 5098
+4 0 0 0 13 13 6758
+5 0 0 0 1 1 396
+6 0 0 0 6 6 5236
+7 0 0 0 5 5 2049
+8 0 0 0 12 12 5340
+9 0 0 0 13 13 8208
+10 0 0 0 6 6 2695
+11 0 0 0 135 135 223624
+12 0 0 0 1 1 396
+13 0 0 0 1 1 446
+14 0 0 0 1 1 465
+15 0 0 0 4 4 1784
+16 0 0 0 10 10 9756
+17 0 0 0 2 2 584
+18 0 0 0 7 7 2790
+19 0 0 0 3 3 2381
+20 0 0 0 0 0 0
+21 0 0 0 3 3 1338
+22 0 0 0 4 4 1784
+23 0 0 0 4 4 2637
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 0
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 0
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 0
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 0
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 0 0
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 48 17691
+501 1 138
+500 2 536
+404 144 253779
+301 66 29242
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 123
+/dotwebapps/phppma/ 1 -
+/dotwebapps/sql/phpMyAdmin2/ 1 -
+/dotwebapps/mysqlmanager/ 1 -
+/dotwebapps/pma/ 1 -
+/dotwebapps/~/phpadmin/ 1 -
+/dotwebapps/mysql/admin/ 1 -
+/dotwebapps/db/phpMyAdmin/ 1 -
+/dotwebapps/admin/sysadmin/ 1 -
+/dotwebapps/administrator/ 1 -
+/dotwebapps/mysqladminconfig/ 1 -
+/dotwebapps/3rdparty/myadmin/ 1 -
+/dotwebapps/phpmyadmin1/ 1 -
+/dotwebapps/db/phpmyadmin/ 1 -
+/dotwebapps/sql/myadmin/ 1 -
+/dotwebapps/db/webdb/ 1 -
+/dotwebapps/~/phpmanager/ 1 -
+/dotwebapps/db/webadmin/ 1 -
+/dotwebapps/administrator/pma/ 1 -
+/dotwebapps/db/phpmyadmin2/ 1 -
+/dotwebapps/web/ 1 -
+/dotwebapps/sql/sql/ 1 -
+/dotwebapps/admin/sqladmin/ 1 -
+/dotwebapps/admin/pma/ 1 -
+/dotwebapps/phpmy/ 1 -
+/dotwebapps/php-myadmin/ 1 -
+/dotwebapps/mysql/pMA/ 1 -
+/dotwebapps/3rdparty/ 1 -
+/dotwebapps/PMA2005/ 1 -
+/dotwebapps/sql/phpmy-admin/ 1 -
+/dotwebapps/PMA/ 1 -
+/dotwebapps/robots.txt 22 -
+/dotwebapps/3rdparty/dbadmin/ 1 -
+/dotwebapps/qql/ 1 -
+/dotwebapps/program/ 1 -
+/dotwebapps/phpmy-admin/ 1 -
+/dotwebapps/cpadmindb/ 1 -
+/dotwebapps/PHPMYADMIN/ 1 -
+/dotwebapps/plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/dotwebapps/webadmin/ 1 -
+/dotwebapps/p/m/a/ 1 -
+/dotwebapps/roundcube/ 1 -
+/dotwebapps/phpmyadmin2/ 1 -
+/dotwebapps/mysql/pma/ 1 -
+/dotwebapps/mysql/dbadmin/ 1 -
+/dotwebapps/admin/web/ 1 -
+/dotwebapps/db/db-admin/ 1 -
+/dotwebapps/sql/phpMyAdmin/ 1 -
+/dotwebapps/sql/sqlweb/ 1 -
+/dotwebapps/phpadmin/ 1 -
+/dotwebapps/3rdparty/setup.php 1 -
+/dotwebapps/sql/phpmyadmin2/ 1 -
+/dotwebapps/phpmya/ 1 -
+/dotwebapps/cpanelphpmyadmin/ 1 -
+/dotwebapps/~/myadmin/ 1 -
+/dotwebapps/admin/phpMyAdmin/ 1 -
+/dotwebapps/sql/sql-admin/ 1 -
+/dotwebapps/admin/db/ 1 -
+/dotwebapps/administrator/admin/ 1 -
+/dotwebapps/cpanelsql/ 1 -
+/dotwebapps/webdb/ 1 -
+/dotwebapps/db/phpMyAdmin2/ 1 -
+/dotwebapps/shop/admin/banner_manager.php/login.php 1 -
+/dotwebapps/3rdparty/pma/ 1 -
+/dotwebapps/cpdbadmin/ 1 -
+/dotwebapps/administrator/PMA/ 1 -
+/dotwebapps/sql/webdb/ 1 -
+/dotwebapps/database/phpMyAdmin/ 1 -
+/dotwebapps/database/phpMyAdmin2/ 1 -
+/dotwebapps/MyAdmin/ 1 -
+/dotwebapps/cpanelmysql/ 1 -
+/dotwebapps/sql/websql/ 1 -
+/dotwebapps/sqladmin/ 1 -
+/dotwebapps/db/dbadmin/ 1 -
+/dotwebapps/sl2/data/ 1 -
+/dotwebapps/pma2005/ 1 -
+/dotwebapps/admin/phpmyadmin/ 1 -
+/dotwebapps/db/myadmin/ 1 -
+/dotwebapps/sqlweb/ 1 -
+/dotwebapps/database/phpmyadmin2/ 1 -
+/dotwebapps/sql/sqladmin/ 1 -
+/dotwebapps/phpMyAdmin2/ 1 -
+/dotwebapps/db/phpMyAdmin-2/ 1 -
+/dotwebapps/3rdparty/pma2005/ 1 -
+/dotwebapps/mysql/db/ 1 -
+/dotwebapps/admin/ 1 -
+/dotwebapps/database/ 1 -
+/dotwebapps/cpphpmyadmin/ 1 -
+/dotwebapps/administrator/web/ 1 -
+/dotwebapps/sql/php-myadmin/ 1 -
+/dotwebapps/administrator/phpmyadmin/ 1 -
+/dotwebapps/mysql/mysqlmanager/ 1 -
+/dotwebapps/administrator/phpMyAdmin/ 1 -
+/dotwebapps/mysql/web/ 1 -
+/dotwebapps/db/websql/ 1 -
+/dotwebapps/SQL/ 1 -
+/dotwebapps/sql/phpmanager/ 1 -
+/dotwebapps/sqlmanager/ 1 -
+/dotwebapps/3rdparty/phpMyAdmin/ 1 -
+/dotwebapps/database/phpmyadmin/ 1 -
+/dotwebapps/phpMyAdmin-2/ 1 -
+/dotwebapps/phpmanager/ 1 -
+/dotwebapps/mysql/ 1 -
+/dotwebapps/cpadmin/ 1 -
+/dotwebapps/database/database/ 1 -
+/dotwebapps/typo3/phpmyadmin/ 1 -
+/dotwebapps/mysqladmin/ 1 -
+/dotwebapps/~/admin/ 1 -
+/dotwebapps/admin/pMA/ 1 -
+/dotwebapps/bbs/data/ 1 -
+/dotwebapps/web/phpMyAdmin/ 1 -
+/dotwebapps/sql/webadmin/ 1 -
+/dotwebapps/websql/ 1 -
+/dotwebapps/myadmin/ 1 -
+/dotwebapps/3rdparty/admin/ 1 -
+/dotwebapps/mysql-admin/ 1 -
+/dotwebapps/dbadmin/ 1 -
+/dotwebapps/mysql/sqlmanager/ 1 -
+/dotwebapps/db/dbweb/ 1 -
+/dotwebapps/administrator/db/ 1 -
+/dotwebapps/db/ 1 -
+/dotwebapps/php-my-admin/ 1 -
+/dotwebapps/phpMyAdmin/ 1 -
+/dotwebapps/phpmyadmin/ 1 -
+END_SIDER_404

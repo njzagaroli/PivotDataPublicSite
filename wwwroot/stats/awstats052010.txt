@@ -1,0 +1,379 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201005 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2519                
+POS_VISITOR 11502               
+POS_DAY 11574               
+POS_DOMAIN 3091                
+POS_LOGIN 3302                
+POS_ROBOT 3457                
+POS_WORMS 3589                
+POS_EMAILSENDER 3720                
+POS_EMAILRECEIVER 3863                
+POS_SESSION 11630               
+POS_SIDER 11767               
+POS_FILETYPES 3998                
+POS_OS 4046                
+POS_BROWSER 4085                
+POS_SCREENSIZE 4135                
+POS_UNKNOWNREFERER 4209                
+POS_UNKNOWNREFERERBROWSER 4296                
+POS_ORIGIN 4378                
+POS_SEREFERRALS 4508                
+POS_PAGEREFS 4652                
+POS_SEARCHWORDS 4800                
+POS_KEYWORDS 4952                
+POS_MISC 2183                
+POS_ERRORS 5011                
+POS_CLUSTER 3158                
+POS_SIDER_404 5113                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20100602151212 411 68535 51540466890
+FirstTime 0
+LastTime 0
+LastUpdate 20100610140019 411 307 103 0 0
+TotalVisits 0                   
+TotalUnique 0                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 0                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 5 5 795
+1 0 0 0 10 10 2235
+2 0 0 0 3 3 209
+3 0 0 0 2 2 624
+4 0 0 0 25 25 5143
+5 0 0 0 25 25 4994
+6 0 0 0 7 7 2192
+7 0 0 0 11 13 3636
+8 0 0 0 4 4 624
+9 0 0 0 3 3 624
+10 0 0 0 7 7 963
+11 0 0 0 20 20 4798
+12 0 0 0 5 5 1248
+13 0 0 0 5 5 1438
+14 0 0 0 21 21 7470
+15 0 0 0 33 33 6267
+16 0 0 0 9 9 2135
+17 0 0 0 17 17 3553
+18 0 0 0 10 10 2968
+19 0 0 0 29 29 6267
+20 0 0 0 10 10 3250
+21 0 0 0 17 17 3554
+22 0 0 0 13 13 3009
+23 0 0 0 47 49 10748
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 0
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 0 0
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 89 28831
+404 253 49913
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 166
+/dotwebapps/mobi/ 1 -
+/site1/test/administrator/index.php 1 -
+/site1/statistic/awstats.pl 1 -
+/dotwebapps/cms/wp-login.php 1 -
+/dotwebapps/cgi-bin/awstats/awstats.pl 1 -
+/dotwebapps/en/administrator/index.php 1 -
+/dotwebapps/content/administrator/index.php 1 -
+/dotwebapps/testblog/wp-login.php 1 -
+/dotwebapps/wp-login.php 1 -
+/dotwebapps/statistics/awstats.pl 1 -
+/site1/old/wp-login.php 1 -
+/dotwebapps/blog/backup/wp-login.php 1 -
+/site1/cms_old/administrator/index.php 1 -
+/dotwebapps/wp_blog/wp-login.php 1 -
+/dotwebapps/wp2/wp-login.php 1 -
+/site1/mobi/ 1 -
+/dotwebapps/stats/awstats.pl 1 -
+/dotwebapps/v2/administrator/index.php 1 -
+/site1/Site/administrator/index.php 1 -
+/site1/joomla15/administrator/index.php 1 -
+/site1/wp-login.php 1 -
+/dotwebapps/awstats-cgi/awstats.pl 1 -
+/site1/statistics/awstats.pl 1 -
+/site1/CMS/administrator/index.php 1 -
+/dotwebapps/joomla_old/administrator/index.php 1 -
+/site1/sitemap.xml.gz 1 -
+/dotwebapps/awstat/awstats.pl 1 -
+/site1/system-cgi/awstats.pl 1 -
+/site1/administrator/index.php 1 -
+/dotwebapps/robots.txt 52 -
+/site1/joomla2/administrator/index.php 1 -
+/dotwebapps/Site_old/administrator/index.php 1 -
+/dotwebapps/cgi-bin/awstats6/6awstats.pl 1 -
+/site1/backup/administrator/index.php 1 -
+/dotwebapps/awstats/awstats.pl 1 -
+/dotwebapps/joomla/administrator/index.php 1 -
+/site1/site_old/administrator/index.php 1 -
+/dotwebapps/joomla1/administrator/index.php 1 -
+/site1/m/ 1 -
+/dotwebapps/WP-backup/wp-login.php 1 -
+/site1/cgi-bin/awstat/awstats.pl 1 -
+/site1/cgi/awstats.pl 1 -
+/dotwebapps/sitemap.xml 1 -
+/site1/awstat/awstats.pl 1 -
+/dotwebapps/joomla1.5/administrator/index.php 1 -
+/dotwebapps/Site/administrator/index.php 1 -
+/dotwebapps/test/administrator/index.php 1 -
+/dotwebapps/wp-blog/wp-login.php 1 -
+/site1/v1/administrator/index.php 1 -
+/dotwebapps/test_blog/wp-login.php 1 -
+/dotwebapps/blog/wp/wp-login.php 1 -
+/dotwebapps/test/blog/wp-login.php 2 -
+/dotwebapps/test/wp-login.php 1 -
+/site1/cp/awstats/awstats.pl 1 -
+/dotwebapps/joomla2/administrator/index.php 1 -
+/dotwebapps/blog/wp_blog/wp-login.php 1 -
+/dotwebapps/portal/administrator/index.php 1 -
+/dotwebapps/wp_old/wp-login.php 1 -
+/site1/blog/wp/wp-login.php 1 -
+/dotwebapps/v1/administrator/index.php 1 -
+/site1/web/administrator/index.php 1 -
+/site1/awstats/awstats.pl 1 -
+/site1/blog/backup/wp-login.php 1 -
+/dotwebapps/stat/awstats.pl 1 -
+/dotwebapps/iphone/ 1 -
+/dotwebapps/m/ 1 -
+/dotwebapps/j/administrator/index.php 1 -
+/dotwebapps/joomla15/administrator/index.php 1 -
+/site1/home/administrator/index.php 1 -
+/site1/webstats/awstats.pl 1 -
+/dotwebapps/site/administrator/index.php 1 -
+/dotwebapps/awstats6/cgi-bin/awstats.pl 1 -
+/site1/cms/wp-login.php 1 -
+/site1/awstats.pl 1 -
+/dotwebapps/awstats/cgi-bin/awstats.pl 1 -
+/dotwebapps/CMS/administrator/index.php 1 -
+/site1/en/administrator/index.php 1 -
+/dotwebapps/mobile/ 1 -
+/site1/blog/wp-login.php 1 -
+/site1/wordpress2/wp-login.php 1 -
+/dotwebapps/wp-test/wp-login.php 1 -
+/dotwebapps/sitemap.xml.gz 1 -
+/site1/main/administrator/index.php 1 -
+/site1/cms/administrator/index.php 1 -
+/site1/backup/wp-login.php 1 -
+/site1/blog_old/wp-login.php 1 -
+/site1/awstats6/cgi-bin/awstats.pl 1 -
+/site1/joomla_old/administrator/index.php 1 -
+/site1/joom/administrator/index.php 1 -
+/dotwebapps/WP/wp-login.php 1 -
+/dotwebapps/wordpress/wp-login.php 1 -
+/dotwebapps/cms/administrator/index.php 1 -
+/site1/google_sitemap.xml 1 -
+/site1/WP/wp-login.php 1 -
+/site1/sitemap.xml 1 -
+/site1/stats/cgi-bin/awstats.pl 1 -
+/site1/Site_old/administrator/index.php 1 -
+/site1/site/administrator/index.php 1 -
+/site1/stats/awstats.pl 1 -
+/dotwebapps/cgi-bin/awstat/awstats.pl 1 -
+/dotwebapps/main/administrator/index.php 1 -
+/site1/google_sitemap.xml.gz 1 -
+/dotwebapps/joom/administrator/index.php 1 -
+/dotwebapps/Test/wp/blog/wp-login.php 1 -
+/dotwebapps/statistic/awstats.pl 1 -
+/site1/Joomla/administrator/index.php 1 -
+/dotwebapps/awstats6/awstats.pl 1 -
+/site1/joomla1.5/administrator/index.php 1 -
+/dotwebapps/wordpress_test/wp-login.php 1 -
+/dotwebapps/backup/wp-login.php 1 -
+/dotwebapps/WP_blog/wp-login.php 1 -
+/dotwebapps/wordpress-test/wp-login.php 1 -
+/site1/mobile/ 1 -
+/dotwebapps/home/administrator/index.php 1 -
+/dotwebapps/awstats.pl 1 -
+/dotwebapps/old/wp-login.php 1 -
+/dotwebapps/wp/wp-login.php 1 -
+/dotwebapps/webstats/awstats.pl 1 -
+/dotwebapps/logs/awstats.pl 1 -
+/dotwebapps/system-cgi/awstats.pl 1 -
+/site1/sitemap/ 1 -
+/dotwebapps/cms_old/administrator/index.php 1 -
+/site1/j/administrator/index.php 1 -
+/site1/robots.txt 35 -
+/site1/cgi-bin/awstats.pl 1 -
+/site1/joomla1/administrator/index.php 1 -
+/dotwebapps/stats/cgi-bin/awstats.pl 1 -
+/site1/cgi-bin/awstats6/6awstats.pl 1 -
+/dotwebapps/test/wordpress/wp-login.php 1 -
+/dotwebapps/blog_old/wp-login.php 1 -
+/dotwebapps/google_sitemap.xml 1 -
+/site1/stat/awstats.pl 1 -
+/dotwebapps/wordpress2/wp-login.php 1 -
+/dotwebapps/wptest/wp-login.php 1 -
+/dotwebapps/wp-old-blog/wp-login.php 1 -
+/dotwebapps/administrator/index.php 1 -
+/site1/logs/awstats.pl 1 -
+/dotwebapps/google_sitemap.xml.gz 1 -
+/site1/awstats-cgi/awstats.pl 1 -
+/dotwebapps/Wordpress/wp-login.php 1 -
+/dotwebapps/test/wp/wp-login.php 1 -
+/dotwebapps/site_old/administrator/index.php 1 -
+/dotwebapps/cgi-bin/awstats.pl 1 -
+/site1/v2/administrator/index.php 1 -
+/dotwebapps/wp-old/wp-login.php 1 -
+/dotwebapps/backup/administrator/index.php 1 -
+/site1/awstats/cgi-bin/awstats.pl 1 -
+/dotwebapps/cgi/awstats.pl 1 -
+/site1/blog-old/wp-login.php 1 -
+/dotwebapps/blog-old/wp-login.php 1 -
+/site1/joomla/administrator/index.php 1 -
+/site1/portal/administrator/index.php 1 -
+/site1/wordpress/wp-login.php 1 -
+/site1/iphone/ 1 -
+/dotwebapps/sitemap/ 1 -
+/dotwebapps/cp/awstats/awstats.pl 1 -
+/dotwebapps/test-blog/wp-login.php 2 -
+/site1/wp/wp-login.php 1 -
+/dotwebapps/web/administrator/index.php 1 -
+/site1/content/administrator/index.php 1 -
+/dotwebapps/Joomla/administrator/index.php 1 -
+/dotwebapps/wp/test/wp-login.php 1 -
+/site1/awstats6/awstats.pl 1 -
+/site1/Wordpress/wp-login.php 1 -
+/site1/cgi-bin/awstats/awstats.pl 1 -
+/dotwebapps/blog/wp-login.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 0
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 0
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 0
+END_SIDER

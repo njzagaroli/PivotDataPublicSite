@@ -1,0 +1,4 @@
+Sitemap: http://pimws.com/sitemap.xml
+
+User-agent: *
+Disallow: 

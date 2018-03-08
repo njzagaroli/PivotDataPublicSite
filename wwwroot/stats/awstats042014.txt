@@ -1,0 +1,537 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201404 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2548                
+POS_VISITOR 8924                
+POS_DAY 14658               
+POS_DOMAIN 3312                
+POS_LOGIN 3542                
+POS_ROBOT 3697                
+POS_WORMS 4438                
+POS_EMAILSENDER 4569                
+POS_EMAILRECEIVER 4712                
+POS_SESSION 15362               
+POS_SIDER 15552               
+POS_FILETYPES 4847                
+POS_OS 5037                
+POS_BROWSER 5214                
+POS_SCREENSIZE 5680                
+POS_UNKNOWNREFERER 5754                
+POS_UNKNOWNREFERERBROWSER 6258                
+POS_ORIGIN 6559                
+POS_SEREFERRALS 6696                
+POS_PAGEREFS 6861                
+POS_SEARCHWORDS 7584                
+POS_KEYWORDS 7781                
+POS_MISC 2212                
+POS_ERRORS 7885                
+POS_CLUSTER 3398                
+POS_SIDER_404 8007                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140501001340 1746 321828 32631909777
+FirstTime 20140401012155
+LastTime 20140430221451
+LastUpdate 20140502033006 1746 1667 78 0 0
+TotalVisits 173                 
+TotalUnique 145                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 147                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 5 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 34 736255 31 35 129888
+1 8 8 56601 29 30 74636
+2 8 8 53107 22 24 103157
+3 15 16 59578 23 24 133398
+4 7 7 53750 29 30 96050
+5 18 20 178833 24 24 116202
+6 10 11 84120 22 23 89531
+7 2 13 352760 16 19 51345
+8 4 4 37629 32 35 142490
+9 3 3 13381 39 44 162238
+10 2 2 9714 31 32 97277
+11 9 9 35284 37 39 122545
+12 9 9 82120 8 11 59599
+13 17 18 60606 32 32 117378
+14 21 74 2029702 12 13 38581
+15 13 14 127950 20 42 810931
+16 10 39 589962 7 7 22093
+17 13 50 868802 42 42 149056
+18 7 7 66079 33 36 145796
+19 6 16 161022 69 70 407921
+20 19 41 832129 18 19 82310
+21 17 18 104967 19 20 71683
+22 18 62 1597983 16 17 76080
+23 7 7 36239 30 30 80986
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 255 490 8228573
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 17
+yandex 215 960965 20140430194647 46
+googlebot 85 489524 20140428192959 24
+bot[+:,\.\;\/\\-] 82 297148 20140430212740 25
+mj12bot 58 211262 20140429234815 14
+no_user_agent 48 853987 20140430031551 0
+baiduspider 35 233158 20140430182939 0
+crawl 23 31858 20140430004500 2
+spider 17 105466 20140429044342 6
+unknown 15 4783 20140430085018 15
+surveybot 14 50893 20140430190927 4
+bspider 5 45387 20140429054255 1
+msnbot 8 5445 20140424091710 4
+robot 8 14927 20140430061434 5
+python 1 9443 20140426091317 0
+archive\.org_bot 1 332 20140408212740 1
+msiecrawler 1 1990 20140413053456 0
+netcraft 3 20869 20140411174622 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 29 208867 0 0
+png 155 538459 0 0
+txt 8 15863 0 0
+php 3 2499 0 0
+html 240 1846889 0 0
+jpg 49 5604151 0 0
+xml 2 3942 0 0
+Unknown 4 7903 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 13
+winlong 10
+winxp 45
+winnt 1
+win98 1
+winvista 100
+linux 40
+winme 1
+macosx 34
+linuxgentoo 1
+win2003 4
+linuxcentos 1
+Unknown 52
+win2008 200
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 33
+msie6.0 18
+firefox3.0.2 1
+firefox28.0 76
+firefox5.0 1
+firefox15.0 1
+chrome 91
+firefox26.0 1
+opera 2
+firefox4.0 1
+curl 2
+lynx 4
+firefox7.0.1 1
+firefox3.6.23 2
+firefox3.0.5 2
+msie8.0 46
+firefox6.0.2 5
+mozilla 8
+firefox1.0 3
+firefox22.0 1
+msie7.0 10
+firefox14.0.1 7
+firefox16.0 2
+msie10.0 71
+netscape4.0 1
+firefox3.6.9 1
+msie5.0 1
+wget 12
+msie9.0 5
+firefox3.5.11 1
+firefox27.0 24
+Unknown 42
+safari 33
+firefox16.0.1 14
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~getfavicon27) 20140402080841
+Mozilla/5.0_(compatible;_Lipperhey_SEO_Service;_http://www.lipperhey.com/) 20140406132750
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20140423021919
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20140412125336
+NerdyBot 20140430183555
+Mozilla/4.0 20140403174312
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~getfavicon27) 20140402080841
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20140412125336
+NerdyBot 20140430183555
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 201 203
+From1 0 0
+From2 3 3
+From3 42 275
+From4 9 9
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 2 2
+baidu 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 18
+http://www.pimws.com/products.html 12 34
+http://pimws.com 8 29
+http://www.pimws.com 7 117
+http://2ads.co.uk 3 3
+http://eurofiles.in 3 3
+http://www.pimws.com/index.html 2 5
+http://PIMWS.COM 2 2
+http://pimws.com/contact.html 1 2
+http://pimws.com/products.html 1 5
+http://PIMWHS.COM 1 1
+http://www.pimws.com/contact.html 0 8
+http://www.linkedin.com/lite/external-redirect 1 1
+http://pimws.com/files/main_style.css 0 22
+http://pimwhs.com 0 4
+http://pimws.com 0 4
+http://www.pimws.com/files/main_style.css 0 23
+http://pimwhs.com/files/main_style.css 0 7
+http://www.pimws.com 1 5
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+dotwebapps.com 1
+pimws.com 1
+www.pimws.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+dotwebapps.com 1
+pimws.com 1
+www.pimws.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 7 11982
+302 2 812
+500 4 13131
+404 66 17809
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 13
+/dotwebapps/administrator/index.php 1 http://dotwebapps.com/administrator/index.php
+/dotwebapps/wp-content/plugins/braille/braille.php 1 http://dotwebapps.com/wp-content/plugins/braille/braille.php
+/test/php/test.php 2 -
+/admin/config.php 14 -
+/mailto:contact@pimws.com 2 -
+/dotwebapps/wp-content/plugins/likebtn-like-button/likebtn_like_button.php 1 http://dotwebapps.com/wp-content/plugins/likebtn-like-button/likebtn_like_button.php
+/dotwebapps/index.php 1 -
+/admin.php 10 -
+/administrator/index.php 14 -
+/test/python/test.py 2 -
+/dotwebapps/wp-login.php 4 -
+/wp-login.php 11 -
+/dotwebapps/admin.php 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 147
+162.13.45.73 12 12 127815 20140411051928
+198.144.80.4 11 85 2233852 20140423144743
+50.131.65.47 8 36 1081550 20140429221345
+24.23.228.235 7 70 1330571 20140426170028
+69.58.178.57 5 5 54500 20140412125339
+82.192.74.188 5 6 11826 20140406132750
+50.1.127.146 4 18 540777 20140424173236
+208.43.243.244 4 4 45078 20140430085032
+64.235.151.197 4 4 37756 20140426213433
+69.58.178.59 4 4 7884 20140411115357
+107.178.217.199 1 1 9440 20140411171231
+108.59.87.68 1 1 9441 20140410145548
+180.76.6.134 1 1 1990 20140411033631
+107.178.217.232 1 1 9440 20140408141556
+146.120.158.21 1 1 14218 20140410125933
+85.238.104.92 1 1 1971 20140417214058
+69.164.111.198 2 4 35627 20140429054255
+91.217.90.241 3 3 20861 20140422224847
+95.9.129.33 3 3 5970 20140413053458
+162.222.177.71 1 1 9440 20140427011859
+96.227.124.37 1 1 9421 20140425055043
+107.178.208.52 1 1 9440 20140415130254
+37.57.200.107 1 1 1971 20140428001840
+54.187.142.221 3 3 5913 20140425213701
+107.178.216.24 1 1 9441 20140404035551
+64.235.150.221 3 3 28317 20140414203201
+64.235.154.193 1 1 9439 20140423211952
+108.59.87.83 1 1 9440 20140424063024
+119.4.115.23 1 1 1995 20140412005149
+107.178.217.212 1 1 9441 20140425150732
+54.82.5.93 2 2 21487 20140420133845
+162.222.180.14 1 1 9440 20140425153042
+23.236.50.139 1 1 9440 20140413183424
+107.178.221.121 1 1 9441 20140430181723
+64.235.154.192 1 1 9439 20140427231855
+107.178.214.152 1 1 9440 20140414191026
+54.205.227.235 2 2 21487 20140402111752
+162.222.178.79 1 1 9440 20140412203130
+107.178.215.250 1 1 9441 20140411170400
+23.251.153.201 1 1 9440 20140407151848
+64.235.152.54 3 3 28317 20140410191343
+108.59.84.120 1 1 9440 20140404155808
+183.39.112.43 1 1 298 20140425101637
+8.35.200.46 1 1 1971 20140402080841
+54.197.142.56 2 2 3942 20140428172219
+162.222.177.134 1 1 9441 20140404155039
+174.129.130.225 1 1 1971 20140419020846
+23.92.60.139 1 1 1971 20140429061513
+50.57.190.97 1 1 849 20140412034943
+180.76.6.140 1 1 1990 20140423234246
+173.255.115.165 1 1 9441 20140417143053
+107.178.217.39 1 1 9441 20140412202354
+95.65.30.29 2 2 11388 20140427192520
+64.235.154.194 2 2 18878 20140422184757
+91.200.13.64 2 2 3942 20140403203811
+184.22.223.120 1 1 1971 20140401234628
+37.230.117.90 2 2 3942 20140421062535
+119.63.193.194 2 2 1990 20140423132126
+92.63.81.197 2 2 3942 20140430131117
+148.251.92.48 3 3 28260 20140414212209
+107.178.211.229 1 1 9441 20140418161223
+107.178.218.2 1 1 9441 20140404213028
+94.242.222.29 2 2 18840 20140425094025
+31.148.246.128 1 1 1971 20140410125933
+200.159.200.63 1 1 9416 20140409023140
+202.46.54.122 1 1 0 20140413011717
+23.251.158.131 1 1 9440 20140404040243
+202.46.49.70 1 1 0 20140401210156
+202.46.51.51 1 1 1990 20140423131942
+23.236.54.204 1 1 9441 20140409144713
+162.222.180.213 1 1 9441 20140407024554
+23.251.159.70 2 2 18881 20140401203255
+221.178.189.228 1 1 1971 20140419132845
+107.178.213.36 1 1 9417 20140411033716
+107.178.213.237 1 1 9441 20140413182825
+153.121.33.231 1 1 1990 20140417164625
+107.178.210.140 1 1 9441 20140424141457
+185.38.249.130 1 1 1971 20140421233219
+199.192.73.92 1 1 9435 20140411221259
+78.100.226.54 3 3 825 20140412035001
+173.255.113.238 1 1 9440 20140424143726
+64.235.154.195 2 2 18878 20140410205729
+96.227.124.38 2 2 11391 20140421115552
+66.55.152.251 1 1 9416 20140411104116
+74.52.245.146 3 3 20869 20140430002411
+72.11.138.131 1 1 12090 20140412065106
+64.235.154.71 1 1 9439 20140409201834
+216.152.251.91 1 1 1990 20140401033811
+162.222.178.195 1 1 9441 20140408140418
+59.104.187.163 3 3 2796 20140412035001
+71.205.219.25 0 1 1971 
+162.222.183.182 1 1 9440 20140404213727
+23.236.59.192 1 1 9441 20140415125542
+64.235.152.53 2 2 18878 20140417204436
+94.242.255.240 1 1 9421 20140424012720
+94.242.222.13 1 1 1971 20140426064847
+64.235.154.69 1 1 9439 20140424173123
+67.215.248.195 1 1 9435 20140412065107
+23.236.57.125 2 2 18881 20140402200807
+180.76.6.28 1 1 1990 20140404064750
+107.178.223.242 1 1 9440 20140407025324
+58.55.127.70 1 1 1971 20140429091428
+119.4.115.17 1 1 1995 20140409000047
+162.222.177.182 2 2 18881 20140401012155
+5.199.142.250 1 1 1990 20140428135037
+107.178.211.228 1 1 9416 20140411035452
+202.46.62.17 1 1 0 20140417211604
+208.117.15.167 1 1 14237 20140412065106
+78.158.11.226 3 4 15405 20140423021919
+91.232.21.35 2 2 3942 20140421135843
+64.235.154.68 2 2 18878 20140424195233
+23.236.58.26 1 1 9441 20140427005849
+64.235.151.198 2 2 18878 20140429021708
+123.139.225.162 1 12 350770 20140409070922
+192.199.242.211 0 1 12186 
+107.178.220.9 1 1 9441 20140407150057
+107.178.214.117 1 1 9440 20140418161842
+64.235.150.223 1 1 9439 20140415222536
+119.63.193.196 1 1 0 20140401210246
+54.198.119.191 2 2 21487 20140413150036
+38.100.21.63 2 2 3942 20140409205444
+5.144.57.118 3 3 5913 20140412005951
+220.227.185.2 2 24 701533 20140430201325
+180.76.6.233 1 1 1990 20140417035355
+122.117.104.142 1 1 1971 20140403174312
+188.32.196.19 2 2 3980 20140419120820
+192.186.141.161 1 1 9416 20140423203557
+23.251.154.193 1 1 9440 20140410150548
+23.251.145.176 1 1 9440 20140409145846
+91.250.15.69 3 3 5970 20140406134321
+23.236.55.216 1 1 9441 20140430041640
+23.236.60.219 1 1 9440 20140430183555
+60.220.212.10 1 2 21625 20140414212212
+62.219.8.229 4 5 47825 20140405153257
+69.162.153.230 1 1 9388 20140412065106
+119.63.193.130 1 1 0 20140417211735
+71.189.164.218 2 2 3980 20140429073616
+98.207.125.207 3 18 448397 20140430221451
+107.178.220.118 1 1 9440 20140417143738
+211.142.197.153 1 1 1971 20140412040257
+107.178.208.204 1 1 9441 20140414190229
+23.251.157.172 1 1 9440 20140430043516
+107.178.220.146 1 1 9441 20140424060636
+192.99.9.164 1 1 9439 20140428030901
+54.80.28.240 2 2 21487 20140410045308
+23.236.51.73 2 2 18881 20140402225314
+180.76.5.152 1 1 1990 20140424093707
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20140401 10 10 60602 7
+20140402 9 9 72630 6
+20140403 2 2 3942 2
+20140404 7 7 58633 7
+20140405 5 6 57264 2
+20140406 8 9 17796 2
+20140407 5 5 47201 5
+20140408 3 3 28320 3
+20140409 10 21 405853 9
+20140410 12 12 113191 10
+20140411 23 23 194254 9
+20140412 24 25 154505 14
+20140413 9 9 46338 6
+20140414 9 10 97064 7
+20140415 3 3 28320 3
+20140417 9 10 45696 9
+20140418 3 3 20871 3
+20140419 3 3 5932 3
+20140420 3 3 23477 2
+20140421 6 6 19275 6
+20140422 13 54 1467852 3
+20140423 11 67 1536065 9
+20140424 15 47 798835 10
+20140425 9 9 45904 7
+20140426 4 27 450434 3
+20140427 4 4 37737 4
+20140428 6 6 19332 5
+20140429 16 46 1143939 8
+20140430 14 51 1227311 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+15mn-30mn 1
+2mn-5mn 3
+0s-30s 160
+30s-2mn 7
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 21
+/ 148 1319931 114 109
+/dotwebapps/ 35 69308 25 21
+/products.html 19 229368 3 6
+/contact.html 13 184853 3 5
+/dotwebapps/robots.txt 8 15863 6 6
+/administrator/ 8 15768 8 8
+/dotwebapps/function.file-get-contents 4 7903 0 4
+/blog/wp-admin/index.php 3 2499 2 1
+/dotwebapps/administrator/ 3 5913 3 3
+/wordpress/wp-admin/ 2 1971 1 1
+/110868774.html 1 1995 1 1
+/dotwebapps/wp-admin/ 1 1971 1 0
+/dotwebapps/forum/ 1 1990 1 1
+/dotwebapps/wordpress/wp-admin/ 1 1971 0 0
+/2543781766.html 1 1971 1 1
+/4156896200.html 1 1971 1 1
+/wp-admin/ 2 0 0 1
+/about.html 1 1971 1 1
+/dotwebapps/blog/wp-admin/ 1 1971 0 1
+/32671750.html 1 1995 1 1
+/93675030.html 1 1971 1 1
+END_SIDER

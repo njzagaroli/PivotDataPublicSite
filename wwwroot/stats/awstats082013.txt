@@ -1,0 +1,412 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201308 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2547                
+POS_VISITOR 8523                
+POS_DAY 10731               
+POS_DOMAIN 3285                
+POS_LOGIN 3515                
+POS_ROBOT 3670                
+POS_WORMS 4288                
+POS_EMAILSENDER 4419                
+POS_EMAILRECEIVER 4562                
+POS_SESSION 11135               
+POS_SIDER 11325               
+POS_FILETYPES 4697                
+POS_OS 4855                
+POS_BROWSER 5002                
+POS_SCREENSIZE 5365                
+POS_UNKNOWNREFERER 5439                
+POS_UNKNOWNREFERERBROWSER 6050                
+POS_ORIGIN 6330                
+POS_SEREFERRALS 6467                
+POS_PAGEREFS 6622                
+POS_SEARCHWORDS 7631                
+POS_KEYWORDS 7783                
+POS_MISC 2210                
+POS_ERRORS 7842                
+POS_CLUSTER 3371                
+POS_SIDER_404 7976                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130901003614 933 170155 37176408593
+FirstTime 20130817194928
+LastTime 20130831223957
+LastUpdate 20130902214822 933 704 228 0 0
+TotalVisits 84                  
+TotalUnique 54                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 55                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 19 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 17 13019 30 34 93439
+1 11 48 1493350 10 19 39578
+2 1 5 373447 13 13 37244
+3 5 5 36418 30 31 104430
+4 16 47 422980 5 9 21926
+5 6 6 45414 10 11 32409
+6 3 3 7105 4 6 19484
+7 7 7 21220 5 5 22057
+8 1 1 2556 15 19 28164
+9 7 7 26275 18 20 79247
+10 2 2 9920 6 8 30463
+11 3 3 15152 9 9 10973
+12 2 2 4522 10 11 29294
+13 6 18 181348 10 11 22331
+14 9 17 767415 30 30 45759
+15 12 12 42686 37 38 60754
+16 9 17 202658 12 13 28840
+17 8 13 31001 12 14 42129
+18 16 48 1146824 15 18 39754
+19 7 26 923457 10 11 18289
+20 4 12 761145 29 30 91655
+21 8 24 202956 23 23 15353
+22 21 31 222711 35 43 108108
+23 9 22 200526 23 27 85357
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 179 393 7154105
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+googlebot 124 412477 20130831221556 35
+bot[+:,\.\;\/\\-] 75 224571 20130831154336 18
+yandex 40 72531 20130831004755 5
+no_user_agent 33 78972 20130831095354 3
+baiduspider 30 120667 20130830181646 2
+msnbot 15 15583 20130828233737 6
+unknown 14 5212 20130830214420 14
+mj12bot 14 52992 20130829205217 5
+python 6 9557 20130823141207 0
+surveybot 6 9698 20130831053408 2
+spider 3 5913 20130821060534 0
+nutch 2 6860 20130819191309 1
+robot 4 6791 20130824220645 1
+crawl 3 15832 20130830095838 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 59 289237 0 0
+png 105 368949 0 0
+html 176 741685 0 0
+jpg 50 5748321 0 0
+Unknown 1 1971 0 0
+txt 2 3942 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 11
+winlong 6
+winxp 19
+unix 1
+winnt 16
+linux 102
+winvista 56
+macosx 8
+winme 2
+win2003 6
+Unknown 24
+win2008 153
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 26
+msie6.0 12
+firefox5.0 2
+netscape4.61 1
+chrome 74
+firefox3.0 1
+libwww 1
+opera 1
+firefox18.0 4
+msie4.01 1
+firefox3.0.11 1
+msie5.5 13
+ecatch 8
+msie8.0 10
+mozilla 14
+netscape5.0 1
+msie7.0 9
+firefox14.0.1 7
+firefox22.0 6
+msie10.0 54
+firefox23.0 87
+firefox3.6.3 2
+wget 1
+msie9.0 54
+Unknown 6
+safari 21
+firefox3.6.13 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+SEOstats_2.1.0_https://github.com/eyecatchup/SEOstats 20130819063342
+Mozilla/5.0 20130822075803
+SEOstats_2.1.0____________https://github.com/eyecatchup/SEOstats 20130831095355
+LWP::Simple/5.835_libwww-perl/5.837 20130822075805
+aboutthedomain 20130825125649
+panscient.com 20130822072000
+Mozilla/4.0_(compatible;_http://search.thunderstone.com/texis/websearch/about.html) 20130829222241
+MacInroy_Privacy_Auditors._See_dotwebapps.com's_privacy_violation_report:_http://dotwebapps.com.macinroy.com/dotwebapps.com 20130828095057
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+aboutthedomain 20130825125649
+panscient.com 20130822072000
+MacInroy_Privacy_Auditors._See_dotwebapps.com's_privacy_violation_report:_http://dotwebapps.com.macinroy.com/dotwebapps.com 20130828095057
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 101 101
+From1 0 0
+From2 2 2
+From3 70 284
+From4 6 6
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 23
+http://pimws.com/about.html 12 33
+http://pimws.com/products.html 10 31
+http://pimws.com 9 59
+http://pimws.com/contact.html 7 42
+http://www.pimws.com 5 35
+http://getfilesme.com 3 3
+http://www.pimws.com/about.html 3 6
+http://www.pimws.com/contact.html 2 8
+http://pimws.com/index.html 2 9
+http://www.webhost4life.com/controlpanel/VisitorStats.bml 2 2
+http://www.pagesinventory.com/domain/www.pimws.com.html 1 1
+http://pimws.com/files/main_style.css 0 24
+http://domainsigma.com/whois/pimws.com 1 1
+http://pimws.com 2 11
+http://www.pimws.com/files/main_style.css 0 5
+http://pimws.com/admin/ 2 2
+http://www.pimws.com/products.html 2 2
+http://domainsigma.com/whois/pimwhs.com 1 1
+http://www.dragndropbuilder.com/weebly/main.php 1 1
+http://www.gutou.cc 2 2
+http://www.pimws.com 1 3
+http://www.pimws.com/index.html 0 1
+http://dotwebapps.macinroy.com/dotwebapps.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 46 21367
+302 5 1891
+206 2 4323
+500 4 4116
+404 27 37684
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 9
+/admin/index.php 1 -
+/dotwebapps/robots.txt 19 -
+/admin.php 1 -
+/administrator/index.php 1 -
+/typo3/index.php 1 -
+/test/python/test.py 1 -
+/wp-login.php 1 -
+/dotwebapps/wp-login.php 1 -
+/admin/login.php 1 http://pimws.com/admin/login.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 55
+50.143.187.220 44 173 3036997 20130831195031
+192.96.204.42 13 13 52640 20130824172417
+206.183.1.74 8 8 21801 20130829222241
+67.174.207.13 8 24 549487 20130824191451
+173.11.83.134 6 14 180286 20130827171610
+69.64.32.191 6 6 41610 20130831095355
+198.144.80.4 6 18 752254 20130821142344
+69.58.178.57 5 5 43281 20130824054449
+74.202.34.98 5 13 179721 20130827165918
+107.0.231.18 4 12 177240 20130824135318
+182.236.160.211 1 1 6510 20130817221526
+38.100.21.118 2 2 13014 20130818114130
+88.229.56.8 1 1 1971 20130824225241
+111.161.38.185 1 1 1990 20130819121724
+69.58.178.56 2 2 12968 20130822152339
+68.183.253.172 2 6 375518 20130817200010
+118.169.37.154 1 1 6510 20130819070028
+106.120.121.136 2 2 13019 20130820012704
+220.200.32.194 2 2 13019 20130823204906
+166.78.181.113 1 1 7652 20130831180526
+54.224.160.234 1 1 1971 20130826153915
+213.174.29.37 1 1 1971 20130824225217
+38.229.70.44 4 4 31063 20130831213920
+24.187.229.108 4 15 177260 20130828180351
+70.181.241.146 2 8 167564 20130826220413
+193.183.76.71 1 1 297 20130819063342
+54.226.242.218 1 1 7782 20130826214152
+46.162.36.158 1 1 1971 20130824225312
+178.95.179.78 1 1 1971 20130824225251
+50.193.202.82 2 2 4647 20130824094038
+178.165.31.25 1 1 1971 20130824225302
+210.83.80.41 3 3 19528 20130818160703
+46.229.170.197 1 1 7781 20130827232959
+166.78.189.121 3 3 6405 20130821052000
+112.101.64.104 4 4 8458 20130820150032
+94.244.143.49 2 2 3980 20130831223957
+5.135.125.179 1 1 1990 20130827182849
+144.76.113.197 1 1 1995 20130824072327
+77.78.109.73 1 1 7785 20130825163625
+207.114.228.13 2 6 384300 20130819182430
+91.185.194.122 1 1 2532 20130825125649
+173.70.141.147 3 3 5913 20130822072000
+85.25.134.59 2 2 3942 20130828095057
+192.95.22.206 1 1 7785 20130824204233
+199.30.228.129 2 2 4267 20130820151017
+119.129.253.159 1 1 6509 20130820003031
+204.68.97.133 1 1 6525 20130818140932
+193.43.252.252 3 3 23400 20130830030419
+65.55.215.238 1 5 373447 20130823022610
+112.126.32.244 2 2 6802 20130822075805
+199.30.24.50 0 4 371333 
+185.6.9.90 1 1 298 20130818064622
+217.197.143.30 1 1 1971 20130824225229
+113.109.177.125 1 1 6510 20130819063744
+198.101.238.203 2 2 4693 20130831083109
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20130817 6 22 1511160 4
+20130818 6 6 32855 4
+20130819 11 19 414641 10
+20130820 15 15 58015 8
+20130821 11 25 1133839 4
+20130822 9 13 32193 5
+20130823 7 11 403731 5
+20130824 58 161 2526867 17
+20130825 7 23 10317 4
+20130826 9 23 357042 4
+20130827 8 16 190053 4
+20130828 7 18 189003 3
+20130829 9 9 29606 2
+20130830 4 4 25390 2
+20130831 12 28 239393 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 3
+30s-2mn 2
+2mn-5mn 2
+15mn-30mn 1
+0s-30s 76
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/ 102 454293 66 59
+/products.html 19 66714 2 5
+/about.html 17 69124 0 0
+/contact.html 17 114244 0 4
+/dotwebapps/ 6 11869 4 5
+/stats/ 3 1732 2 1
+/dotwebapps/robots.txt 2 3942 2 0
+/admin/ 2 3980 2 2
+/dotwebapps/blog/ 1 1971 1 1
+/domainsigma_removal_8061f41f4789bc652e385ca856aeb941685349f1.html 1 1971 0 0
+/dotwebapps/drupal/ 1 1971 1 1
+/dotwebapps/function.file-get-contents 1 1971 0 1
+/domainsigma_removal_f9d2c57ca267eae8802c814f5ea4e4a52d8c1fdd.html 1 1971 0 0
+/dotwebapps/wp/ 1 1971 1 1
+/384592181.html 1 1990 1 1
+/email.html 1 1971 0 1
+/dotwebapps/wordpress/ 1 1971 1 1
+/dotwebapps/joomla/ 1 1971 1 1
+/login.html 1 1971 0 0
+END_SIDER

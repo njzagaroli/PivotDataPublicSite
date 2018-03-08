@@ -1,0 +1,552 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201408 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2540                
+POS_VISITOR 10206               
+POS_DAY 14995               
+POS_DOMAIN 3333                
+POS_LOGIN 3565                
+POS_ROBOT 3720                
+POS_WORMS 4348                
+POS_EMAILSENDER 4479                
+POS_EMAILRECEIVER 4622                
+POS_SESSION 15500               
+POS_SIDER 15707               
+POS_FILETYPES 4757                
+POS_OS 5018                
+POS_BROWSER 5169                
+POS_SCREENSIZE 5565                
+POS_UNKNOWNREFERER 5639                
+POS_UNKNOWNREFERERBROWSER 6339                
+POS_ORIGIN 6666                
+POS_SEREFERRALS 6807                
+POS_PAGEREFS 6964                
+POS_SEARCHWORDS 9007                
+POS_KEYWORDS 9293                
+POS_MISC 2204                
+POS_ERRORS 9442                
+POS_CLUSTER 3421                
+POS_SIDER_404 9554                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140819233210 4672 980885 0
+FirstTime 20140801150708
+LastTime 20140819233210
+LastUpdate 20140820033511 4672 3233 1439 0 0
+TotalVisits 161                 
+TotalUnique 120                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 120                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 21 607791 22 25 190704
+1 14 83 2070982 28 28 96325
+2 25 71 1447566 16 21 96440
+3 17 28 456350 15 18 66169
+4 6 25 639115 18 32 558175
+5 7 19 467921 28 30 138013
+6 5 5 24791 24 26 85321
+7 1 1 9440 12 13 38886
+8 5 16 362087 25 26 113019
+9 17 17 44777 21 23 63390
+10 8 8 53067 22 23 87189
+11 6 6 26728 15 19 65306
+12 8 8 75352 48 88 1351285
+13 2 2 11387 12 15 73344
+14 10 10 60445 25 27 98144
+15 45 45 382036 40 41 129748
+16 12 75 1299790 25 41 596505
+17 39 413 8473379 19 20 109433
+18 42 215 4836357 15 16 41694
+19 41 300 4967262 20 23 31024
+20 30 156 3999832 37 52 557010
+21 35 167 3884132 23 33 329757
+22 78 901 8482139 19 27 325893
+23 68 299 6127056 23 25 64684
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 522 2891 48809782
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+googlebot 224 3503945 20140819212238 33
+yandex 139 435829 20140819113343 24
+bot[+:,\.\;\/\\-] 138 462735 20140819123839 29
+baiduspider 43 350778 20140819141628 0
+unknown 25 8034 20140819141444 25
+crawl 22 115981 20140816050811 3
+mj12bot 14 51016 20140819170615 4
+robot 9 2817 20140819175614 9
+surveybot 8 27427 20140816193830 2
+spider 7 47714 20140815115658 2
+python 1 9435 20140802160511 0
+no_user_agent 3 13363 20140814004452 0
+msnbot 6 3123 20140815033446 3
+netcraft 3 20869 20140814141654 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+eot 2 29625 0 0
+css 904 8603329 0 0
+asp 2 506 0 0
+png 817 17164403 0 0
+ttf 7 391356 0 0
+pl 2 566 0 0
+txt 7 13873 0 0
+php 5 57213 0 0
+html 493 2926389 0 0
+jpg 87 8994872 0 0
+js 561 10619766 0 0
+Unknown 4 7884 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 11
+winlong 11
+winxp 29
+unix 2
+winnt 5
+winvista 84
+linux 135
+winme 1
+macosx 323
+win2003 4
+Unknown 106
+win2008 2191
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 27
+firefox32.0 12
+msie6.0 10
+firefox5.0 1
+chrome 1650
+libwww 20
+firefox18.0 2
+firefox4.0 3
+lynx 4
+firefox30.0 5
+ecatch 1
+firefox31.0 263
+msie8.0 23
+firefox1.0.7 2
+konqueror 1
+firefox6.0.2 4
+firefox25.0 12
+mozilla 625
+firefox14.0.1 10
+msie7.0 18
+firefox5.0.1 1
+msie10.0 3
+firefox6.0 1
+firefox3.6.12 3
+msie9.0 5
+Unknown 64
+firefox15.0.1 2
+safari 146
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+SEOstats_2.1.0____________https://github.com/eyecatchup/SEOstats 20140810052441
+Internet_Explorer 20140804213535
+Mozilla/5.0_(compatible;_SiteExplorer/1.0b;__http://siteexplorer.info/) 20140819021843
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20140818222457
+panscient.com 20140807031454
+libwww-perl/5.830 20140807090401
+wscheck.com/1.0.0_(_http://wscheck.com/) 20140810052440
+Mozilla/5.0_(compatible;_WebMasterAid/1.0;__http://wmaid.com/explore/) 20140813172135
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20140815124008
+NerdyBot 20140819151537
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+Internet_Explorer 20140804213535
+wscheck.com/1.0.0_(_http://wscheck.com/) 20140810052440
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20140815124008
+panscient.com 20140807031454
+NerdyBot 20140819151537
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 300 309
+From1 0 0
+From2 17 17
+From3 203 2563
+From4 2 2
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 17 17
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 47
+http://pivotdata.com/our_process.html 36 168
+http://pivotdata.com/markets.html 18 435
+http://www.pivotdata.com/our_process.html 13 45
+http://pivotdata.com 13 381
+http://pivotdata.com 11 330
+http://pivotdata.com/products.html 11 15
+http://www.pivotdata.com 11 191
+http://pivotdata.com/about_us.html 8 23
+http://www.pivotdata.com 8 173
+http://pimws.com 7 38
+http://pivotdata.com/etl_capabilities.html 3 27
+http://pivotdata.org 0 11
+http://www.pivotdata.com/markets_lp.html 3 14
+http://pivotdata.com/css/stylesheet.css 0 7
+http://pivotdata.com/markets_family.html 1 11
+http://www.pivotdata.com/about_us.html 6 16
+http://www.pivotdata.com/markets_private.html 1 7
+http://pivotdata.com/contactus.html 5 15
+http://www.pimws.com/files/main_style.css 0 35
+http://www.pivotdata.com/index.html 1 59
+http://www.pivotdata.com/etl_capabilities.html 2 10
+http://pivotdata.com/markets_lp.html 6 40
+http://www.pivotdata.com/process_data.html 1 5
+http://www.pimws.com/about_us.html 1 3
+http://www.pivotdata.com/products.html 0 2
+http://pivotdata.com/benefits.html 4 14
+http://wmaid.com/explore/pimws.com/ 2 2
+http://pivotdata.com/process_data.html 1 8
+https://www.linkedin.com 2 2
+http://pimwhs.com 1 1
+http://www.pivotdata.com/markets_family.html 0 2
+http://www.pivotdata.com/benefits.html 2 6
+http://www.pimws.com/css/stylesheet.css 0 1
+http://www.pivotdata.com/contactus.html 2 6
+http://www.pimws.com/our_process.html 1 3
+http://wmaid.com/explore/dotwebapps.com/ 2 2
+http://wmaid.com/explore/pimwhs.com/ 2 2
+http://youtube-downloader.savetubevideo.com/youtube-downloader.php 1 1
+http://pivotdata.com/index.html 5 87
+http://www.pimws.com 0 96
+http://www.pivotdata.com/markets.html 7 172
+http://pivotdata.com/contact.html 0 1
+http://www.pimws.com/markets.html 1 3
+http://www.pimws.com/index.html 0 1
+http://www.pimws.com 1 79
+http://95.semalt.com/crawler.php 1 1
+http://pivotdata.com/markets_private.html 2 12
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 6
+wmaid.com+explore+pimws.com 2
+wmaid.com+explore+dotwebapps.com 2
+wmaid.com+explore+pimwhs.com 2
+content 1
+pimws.com 1
+pivotdata.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 7
+explore 6
+wmaid.com 6
+pimws.com 3
+dotwebapps.com 2
+pimwhs.com 2
+content 1
+pivotdata.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 8 228709
+500 1 3266
+404 41 22417
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 11
+/dotwebapps/administrator/index.php 1 -
+/admin.php 5 -
+/administrator/index.php 3 -
+/test_cfm_1407366145.cfm 1 -
+/test/python/test.py 1 -
+/test_cfm_1407402206.cfm 1 -
+/wp-login.php 14 -
+/dotwebapps/wp-login.php 4 -
+/test_php_1407402209.php 1 -
+/css/font-awesome/font/fontawesome-webfont.woff 8 http://pivotdata.com/
+/dotwebapps/admin.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 120
+50.131.65.47 243 2091 31213729 20140819230345 20140819224138 /markets_family.html
+67.169.56.89 35 281 7566551 20140819233210 20140819233138 /markets_lp.html
+10.1.22.4 17 17 58504 20140807090327
+188.92.76.167 12 12 4294 20140815215228
+173.70.141.204 10 10 50991 20140807031454
+50.1.127.146 5 31 651568 20140819212014
+69.58.178.56 5 5 54500 20140812022316
+91.121.100.66 5 5 24746 20140819062136
+46.4.48.68 5 5 39675 20140810032242
+69.58.178.58 5 5 54498 20140815124011
+89.145.108.203 1 1 9420 20140812180409
+146.148.32.227 2 2 18881 20140802151724
+64.235.154.195 1 1 9439 20140804182433
+202.46.51.42 1 1 0 20140804031130
+69.61.21.99 1 1 9420 20140803064730
+89.169.7.75 1 1 1971 20140816035835
+60.55.42.74 1 1 1990 20140813063638
+146.148.44.159 2 2 18881 20140803150551
+95.47.138.222 1 1 1971 20140819103211
+130.211.121.8 2 2 18881 20140811172918
+5.10.104.70 1 1 9424 20140817121210
+187.74.236.24 1 12 350770 20140818194011
+10.1.22.5 3 3 826 20140807090401
+220.181.127.126 1 1 9435 20140803020249
+68.175.66.208 4 30 905891 20140819214402
+205.237.88.142 2 2 18880 20140809090731
+208.93.7.106 1 1 9440 20140818120005
+5.10.107.132 3 3 35658 20140815145558
+146.148.39.87 2 2 18881 20140808151746
+198.178.124.47 1 1 1971 20140806111508
+85.17.26.217 4 4 7884 20140804213535
+180.76.5.17 1 1 1990 20140803103537
+66.249.84.82 1 12 350770 20140816172843
+46.229.170.197 2 2 18836 20140817234802
+180.76.6.46 1 1 1990 20140808154822
+130.211.175.32 2 2 18881 20140813151752
+176.102.37.84 1 1 1971 20140803141705
+202.46.62.25 1 1 0 20140814185111
+193.105.245.61 1 1 9435 20140817155438
+46.4.98.199 1 1 12071 20140807045609
+64.235.154.193 1 1 9439 20140812213352
+54.164.35.2 1 1 1990 20140814121103
+54.86.39.191 1 1 1971 20140817171239
+180.76.6.213 1 1 1990 20140813053127
+82.146.38.254 1 1 1971 20140813230500
+176.104.208.172 1 1 1990 20140808141108
+130.211.184.63 2 2 18881 20140816151633
+62.109.1.95 1 1 9439 20140817155844
+50.131.65.57 2 24 701544 20140816212048
+130.211.159.86 2 2 18881 20140806152035
+202.75.39.200 2 2 1650 20140811011949
+64.235.154.192 1 1 9439 20140804181245
+108.59.80.163 2 2 18881 20140809151742
+64.202.161.41 2 2 18880 20140803040455
+130.211.139.250 2 2 18881 20140815151656
+70.64.81.181 2 2 1650 20140812082523
+184.169.237.217 2 2 23634 20140815215945
+31.148.246.155 1 1 1971 20140819114832
+130.211.172.33 2 2 18881 20140817151645
+54.164.64.216 1 1 9435 20140814182751
+130.211.158.241 2 2 18881 20140811151650
+208.43.248.248 1 1 9420 20140818114543
+188.143.234.100 1 1 1971 20140817211127
+130.211.127.163 2 2 18881 20140805150655
+198.100.148.142 1 1 9416 20140814132051
+192.99.147.201 1 1 1971 20140808034750
+78.158.11.226 4 4 31946 20140818222457
+66.249.84.28 1 12 350770 20140816172903
+130.211.113.129 2 2 18881 20140807151648
+91.220.202.65 2 2 3980 20140817010758
+54.88.203.96 1 1 1971 20140814130000
+192.99.3.83 2 2 11387 20140815031744
+64.235.151.196 1 1 9439 20140813181238
+69.12.77.182 2 2 21487 20140805234211
+146.120.166.172 1 1 14218 20140819103212
+146.148.43.255 2 2 18881 20140804150634
+64.235.151.198 2 2 18878 20140805204735
+74.117.238.225 2 2 21487 20140804105330
+62.210.122.123 2 2 9686 20140819082102
+101.199.112.49 1 2 21583 20140803020259
+38.100.21.64 2 2 3942 20140818150437
+115.118.128.202 4 48 1403080 20140807084336
+119.63.193.196 1 1 0 20140814185141
+71.205.130.44 2 15 439032 20140818182559
+180.76.6.150 1 1 1990 20140819102011
+202.46.60.11 1 1 0 20140804144626
+50.143.187.220 3 33 739879 20140818021150
+199.217.119.4 3 3 28256 20140810052441
+202.46.48.19 1 1 0 20140810191316
+130.211.117.152 2 2 18881 20140812151850
+107.178.218.11 2 2 18881 20140818151659
+144.76.197.176 1 1 1990 20140810233924
+96.242.31.228 4 4 45079 20140802203610
+71.86.184.241 1 12 350770 20140818033110
+119.63.193.131 1 1 0 20140804144646
+185.2.154.88 2 2 18871 20140809022237
+208.93.7.110 1 1 9440 20140813210338
+5.10.104.68 2 2 0 20140811151411
+205.237.88.143 2 2 18880 20140808044208
+149.154.67.29 1 1 1971 20140814104402
+223.99.247.20 1 1 1971 20140809111736
+95.37.51.19 2 2 18836 20140818145834
+130.211.188.207 2 2 18881 20140801151248
+50.31.96.11 1 13 433733 20140816051204
+162.220.58.244 1 1 1971 20140812094547
+64.233.172.41 2 15 406004 20140819195944
+69.58.178.57 4 4 7884 20140811024817
+205.237.88.150 1 1 9440 20140803075145
+188.241.141.178 2 2 11426 20140817140912
+88.3.73.60 1 1 9416 20140812093349
+69.61.21.101 1 1 9420 20140803064923
+123.125.244.216 1 1 1971 20140803041601
+130.211.166.1 2 2 18881 20140810151702
+166.137.208.20 1 5 362383 20140819194501
+130.211.144.220 2 2 18881 20140814151834
+31.132.79.122 1 1 1971 20140819114832
+208.43.75.210 1 1 9424 20140818115751
+146.148.43.28 2 2 15401 20140819151537
+208.43.245.245 3 3 33918 20140819021843
+198.144.80.4 2 42 1215582 20140819174103
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20140801 3 3 20852 2
+20140802 8 8 82840 4
+20140803 14 15 106933 11
+20140804 12 12 65159 9
+20140805 6 6 59246 3
+20140806 20 64 1486029 9
+20140807 27 49 818382 9
+20140808 6 6 34272 5
+20140809 6 6 49163 4
+20140810 9 9 67998 5
+20140811 12 12 49267 6
+20140812 15 26 458014 9
+20140813 13 13 44063 8
+20140814 9 9 43664 8
+20140815 19 19 146029 7
+20140816 12 76 1916829 9
+20140817 14 25 436137 13
+20140818 160 1366 16933703 16
+20140819 157 1167 25991202 24
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 3
+5mn-15mn 1
+2mn-5mn 1
+15mn-30mn 3
+30s-2mn 8
+0s-30s 139
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 40
+/ 270 1645215 110 99
+/markets.html 57 351869 1 1
+/dotwebapps/ 29 53702 22 21
+/our_process.html 25 122145 0 0
+/about_us.html 18 99945 0 1
+/products.html 12 144852 3 5
+/contactus.html 10 43259 0 1
+/markets_lp.html 9 100808 0 0
+/contact.html 9 127962 2 4
+/test_1407402207.html 8 2320 1 1
+/test_php_1407366147.php 1 53913 0 0
+/markets_family.html 4 49516 0 0
+/test_html_1407366146.html 1 290 0 0
+/webalizer/ 1 1971 1 1
+/dotwebapps/function.file-get-contents 4 7884 1 4
+/dotwebapps/administrator/ 1 1971 1 1
+/120417248459.html 1 1971 1 1
+/stats/ 1 610 0 0
+/about.html 1 1971 1 1
+/contact_us.html 1 0 0 0
+/test_asp_1407366143.asp 1 253 0 0
+/markets_private.html 5 41795 0 0
+/test_pl_1407366148.pl 1 283 0 1
+/dotwebapps/robots.txt 6 11902 6 4
+/css/font-awesome/font/fontawesome-webfont.ttf 7 391356 0 2
+/css/font-awesome/font/fontawesome-webfont.eot 2 29625 0 0
+/test_1407366143.html 5 1445 1 0
+/test_html_1407402207.html 1 290 0 0
+/2974379.html 1 1990 1 1
+/test_asp_1407402205.asp 1 253 1 0
+/test_pl_1407402240.pl 1 283 0 1
+/administrator/ 2 3942 2 2
+/benefits.html 5 35620 0 0
+/the_team.html 2 0 0 1
+/blog/wp-login.php 4 3300 2 2
+/process_data.html 4 29492 0 0
+/dotwebapps/wp-content/plugins/wysija-newsletters/readme.txt 1 1971 1 1
+/about-buydomains/ 1 1971 1 1
+/etl_capabilities.html 8 57496 1 1
+/contact-buydomains/ 1 1971 1 1
+END_SIDER
