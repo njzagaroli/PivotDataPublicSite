@@ -1,6 +1,5 @@
 ﻿
 
-@charset "UTF-8";
 /*
 * Symbolset
 * www.symbolset.com
@@ -11,8 +10,23 @@
 * <link href="webfonts/ss-standard.css" rel="stylesheet" />
 */
 
+.displaytable, .displaytable td{
+    border-color: black;
+}
+
+.container.container-image {
+    background-image: url("../img/bg.png");
+    background-size:cover;
+}
+
+.container.custom-container {
+    padding: 0 200px 0 200px;
+
+}
 
 .jumbotron {
+    background-image: url("../img/bg.png");
+    background-size:cover;
     padding-top: 10px;
     padding-bottom: 10px;
     min-height: 0px;
@@ -1646,7 +1660,6 @@ header.main nav a:hover, header.main nav a:focus {
         margin: 0 0 0.5em;
     }
 
-}
 
 @media (min-width: 50em) {
     .content section {
